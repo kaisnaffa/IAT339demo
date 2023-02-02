@@ -4,3 +4,7 @@ This is text file 2.
 Finesse
 
 This is work on Brach one
+
+Edit in branch 2
+
+Edit in branch 1
